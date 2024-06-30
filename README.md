@@ -6,7 +6,8 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
   
 <h1><br/><a href="https://github.com/joshmadakor1">Excel- Power quary</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Power BI and Tabulea Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Analyst</a></h1>
 
-<h2>👨‍💻 Power BI Development Projects:</h2>
+<h2>🎁 Power BI Projects:</h2>
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +19,7 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  
-<h2>👨‍💻 SQL Exploratry Projects:</h2>
+<h2>🎁 SQL Exploratry Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
@@ -27,7 +28,7 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Excel & Power quary Project</h2>
+<h2>🎁 Excel & Power quary Project</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -35,7 +36,7 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>📺 Tabulea Projects</h2>
+<h2>🎁 Tabulea Projects</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
