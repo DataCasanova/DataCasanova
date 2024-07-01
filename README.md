@@ -9,8 +9,8 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
 <h2>🎁 Power BI Projects:</h2>
 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Walmart Store Analysis </b>
+  - [Comparing the Previous sale to Current Sale](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
