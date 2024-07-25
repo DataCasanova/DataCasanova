@@ -4,13 +4,13 @@ I focus on creating reports and visualizations for data-forward companies.
 I’m laser-focused on creating business insights that drive decision making, and I help companies ⚡automate⚡ reports that connect to all their data.
 I’ve spent 100’s of hours developing reports that save time and money.</b> <a href="https://docs.google.com/document/d/111x5D-8lHtw5aRFG0lvyPYm_luMwLXkgK-R4YhUTeVE/edit?usp=sharing/">here is a Link to my Resume
   
-<h1><br/><a href="https://github.com/joshmadakor1">Excel- Power quary</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Power BI and Tabulea Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Analyst</a></h1>
+<h1><br/><a href="https://github.com/joshmadakor1">Excel- Power quary</a>, <a href="https://www.linkedin.com/in/takomolafe/">Power BI and Tabulea Developer</a>, <a href="https://analytics.google.com/analytics/academy/certificate/FilxbA0_TtaQDsJ4QJQnmA">Analyst</a></h1>
 
 <h2>🎁 Power BI Projects:</h2>
 
 
 - <b>Walmart Store Analysis </b>
-  - [Comparing the Previous sale to Current Sale](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Comparing the Previous sale to Current Sale](https://github.com/DataCasanova/Walmart-Sales-Analysis/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
