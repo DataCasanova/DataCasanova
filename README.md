@@ -13,9 +13,8 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
   - [Comparing the Previous sale to Current Sale](https://github.com/DataCasanova/Walmart-Sales-Analysis/tree/main)
 - <b>Plant co Sales performance 2023</b>
   - [Overcoming botanical distribution challenges](https://github.com/DataCasanova/Overcoming-Global-Botanical-Distribution-Challenges-Innovative-Solutions-for-a-Greener-Future/tree/main) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm</b>
+  - [The analysis of the 1853 Cholera Outbreak in Stockholm aims to understand the outbreak's dynamics, evaluate the public health response, and identify lessons to improve future epidemic preparedness and response.](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
 
 <h2>🎁 SQL Exploratry Projects:</h2>
 
