@@ -11,8 +11,8 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
 
 - <b>Walmart Store Analysis </b>
   - [Comparing the Previous sale to Current Sale](https://github.com/DataCasanova/Walmart-Sales-Analysis/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Plant co Sales performance 2023</b>
+  - [Overcoming botanical distribution challenges](https://github.com/DataCasanova/Overcoming-Global-Botanical-Distribution-Challenges-Innovative-Solutions-for-a-Greener-Future/tree/main) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
