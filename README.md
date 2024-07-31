@@ -18,7 +18,7 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
 - <b>Analyzing Airline Flight Delays: Insights from 2015 U.S. Air Travel Data</b>
   - [This analysis aims to understand flight volume trends, assess departure delays, and evaluate airline reliability to optimize scheduling ... ](https://github.com/DataCasanova/Analyzing-Airline-Flight-Delays-Insights-from-2015-U.S.-Air-Travel-Data)   
 - <b>COVID-19-s-Impact-on-Airport-Traffic-Analysis-of-Traffic-Volume-Post-COVID</b>
-  - [This analysis is conducted to understand the significant decline in airport traffic due to the COVID-19 pandemic and to identify recovery trends. The insights gained will help improve airport operations and contribute to the economic stability of airline companies](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
+  - [This analysis is conducted to understand the significant decline in airport traffic due to the COVID-19 pandemic and to identify recovery trends.](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
 
 
     
