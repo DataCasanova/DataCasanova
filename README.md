@@ -19,7 +19,7 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
   - [This analysis aims to understand flight volume trends, assess departure delays, and evaluate airline reliability to optimize scheduling ... ](https://github.com/DataCasanova/Analyzing-Airline-Flight-Delays-Insights-from-2015-U.S.-Air-Travel-Data)   
 - <b>Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm</b>
   - [The analysis of the 1853 Cholera Outbreak in Stockholm aims to understand the outbreak's dynamics, evaluate the public health response, and identify lessons to improve future epidemic preparedness and response.](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
-- <b>Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm</b>
+
 
     
 <h2>🎁 SQL Exploratry Projects:</h2>
