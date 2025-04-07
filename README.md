@@ -17,28 +17,20 @@ I’ve spent 100’s of hours developing reports that save time and money.</b> <
   - [The analysis of the 1853 Cholera Outbreak in Stockholm aims to understand the outbreak's dynamics, evaluate the...](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
 - <b>Analyzing Airline Flight Delays: Insights from 2015 U.S. Air Travel Data</b>
   - [This analysis aims to understand flight volume trends, assess departure delays, and evaluate airline reliability to optimize scheduling ... ](https://github.com/DataCasanova/Analyzing-Airline-Flight-Delays-Insights-from-2015-U.S.-Air-Travel-Data)   
-- <b>COVID-19-s-Impact-on-Airport-Traffic-Analysis-of-Traffic-Volume-Post-COVID</b>
-  - [This analysis is conducted to understand the significant decline in airport traffic due to the COVID-19 pandemic and to identify recovery trends.](https://github.com/DataCasanova/Data-Analysis-of-the-1853-Cholera-Outbreak-in-Stockholm/tree/main)
+
 
 
     
 <h2>🎁 SQL Exploratry Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
- 
 
 <h2>🎁 Excel & Power quary Project</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 <h2>🎁 Tabulea Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
 
 <h2> 🤳 Connect with me:</h2>
 
